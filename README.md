@@ -73,9 +73,7 @@ Enter customer details in the app to see whether they are likely to **churn** or
 
 ## Dataset
 
-* Sourced from Kaggle: [Bank Customer Churn Dataset](https://www.kaggle.com/datasets)
-* Includes features like `CreditScore`, `Geography`, `Gender`, `Age`, `Balance`, etc.
-
+* Sourced from MavelAnalytics: [Bank Customer Churn Dataset](https://mavenanalytics.io/data-playground/bank-customer-churn)
 ---
 
 ## Performance
