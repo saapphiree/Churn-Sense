@@ -87,8 +87,3 @@ Enter customer details in the app to see whether they are likely to **churn** or
 ## License
 
 This project is licensed under the **MIT License** – see the LICENSE file for details.
-
-``` 
-
-If you want, I can also make a **short, recruiter-friendly version** that emphasizes results and key skills for your portfolio. Do you want me to do that?
-```
